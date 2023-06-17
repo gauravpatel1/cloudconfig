@@ -33,5 +33,5 @@ spring:
 
 user-config:
   username: test
-  password: '{cipher}baeb90d57edb9a050b97b98a7d8cabe80ee884e6fff16c22956172459a43e54d'
+  password: '{cipher}4759090f15c5d873b228a6d83761f6cc3d1035d19f390a0d273b5550b79a7746496203b519cf84095f634c1a24ae4926'
   roles: USER
